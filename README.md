@@ -1,3 +1,8 @@
+#Screenshot
+![image](https://github.com/mdfaiz1201/DemoUI/assets/69683571/1d31c6c6-1257-4703-a5fb-8329a55725e5)
+
+![image](https://github.com/mdfaiz1201/DemoUI/assets/69683571/87117b76-4bbe-454c-9444-d0018202aaa7)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
