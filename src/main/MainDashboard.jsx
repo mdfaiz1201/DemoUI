@@ -3,7 +3,7 @@ import '../App.css'
 
 const MainDashboard = () => {
   return (
-    <div className='h-screen scrolling-container m-8'>
+    <div className='h-screen scrolling-container'>
       <Header/>
       <Dashboard/>
     </div>

@@ -16,7 +16,7 @@ const App = () => {
       <Sidebar />
       <main className='flex-1 bg-gray-200'>
         <Routes>
-          <Route path='/Dashboard' element={<MainDashboard />}/>
+          <Route path='*' element={<MainDashboard />}/>
         </Routes>
       </main>
     </div>
