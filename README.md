@@ -1,7 +1,6 @@
-#Screenshot
-![image](https://github.com/mdfaiz1201/DemoUI/assets/69683571/1d31c6c6-1257-4703-a5fb-8329a55725e5)
-
-![image](https://github.com/mdfaiz1201/DemoUI/assets/69683571/87117b76-4bbe-454c-9444-d0018202aaa7)
+# Screenshot
+![image](https://github.com/mdfaiz1201/DemoUI/assets/69683571/af0c39ed-5de2-4093-838a-ca6268254d53)
+![image](https://github.com/mdfaiz1201/DemoUI/assets/69683571/03b8cb27-65aa-4ef0-bd7a-ae1f5c39aba4)
 
 # Getting Started with Create React App
 
